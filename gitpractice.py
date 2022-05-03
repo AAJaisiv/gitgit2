@@ -1,6 +1,6 @@
 a= 45
 b  = 56
+c = 44
+mul = a*b/c
 
-add = a+b
-
-print(add)
+print(mul)
